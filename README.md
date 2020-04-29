@@ -1,5 +1,5 @@
 # FormaServe f_Training
-![FormaServe](logo.png)
+![FormaServe](/logo.png)
 
 ### Our eLearning IBM i Training Examples
 
