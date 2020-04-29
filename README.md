@@ -1,7 +1,7 @@
 # FormaServe f_Training
 
-![FormaServe Logo](https://github.com/AndyYouens/f_Learning/blob/master/images/logo.png?raw=true)
-
+![FormaServe Logo](https://github.com/AndyYouens/f_Learning/blob/master/images/Logo.png)
+ 
 ### Our eLearning IBM i Training Examples
 
 ### Our training can be found [here](https://learning.formaserve.co.uk)
