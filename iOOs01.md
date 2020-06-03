@@ -24,7 +24,7 @@
 - [VS Code](https://code.visualstudio.com/)
 - [VS Code GitHub](https://github.com/microsoft/vscode)
 - [Our Customer Story @ IBM ](https://www.ibm.com/it-infrastructure/us-en/resources/power/ibm-i-customer-stories/#/FormaServe-systems/)
-- [Video T&amp;C&apos;s](https://www.formaserve.co.uk/terms.pdf/)
+- [Video T&amp;C&apos;s](https://www.formaserve.co.uk/terms.php/)
 
 
 
