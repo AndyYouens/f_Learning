@@ -1,4 +1,4 @@
-# FormaServe f_Training
+# FormaServe f_Learning
 
 ![FormaServe Logo](https://github.com/AndyYouens/f_Learning/blob/master/images/Logo.png)
 
@@ -24,6 +24,7 @@
 - [iODb02_RCAC.sql - Examples of using RCAC (Row & Column Access Control) on DB2 for i](iODb02_RCAC.sql)
 - [iOOs01.clle - CL programming example of automating the updating of Open Source Software on IBM i](iOOs01.clle)
 - [iOOs01_Open_Source_Help_Guide.md - Open Source On IBM i Help Guide](iOOs01_Open_Source_Help_Guide.md)
+- [wt_settings.json - Windows Terminal Settings](wt_settings.json)
 
 ## Acknowledgments
 
