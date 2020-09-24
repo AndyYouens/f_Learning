@@ -2,7 +2,7 @@
 
 ![FormaServe Logo](https://github.com/AndyYouens/f_Learning/blob/master/images/Logo.png)
 
-### Our eLearning IBM i Training Examples
+## Our eLearning IBM i Training Examples
 
 ### Visit our training videos, which can be found [here](https://learning.formaserve.co.uk)
 
@@ -25,6 +25,7 @@
 - [iOOs01.clle - CL programming example of automating the updating of Open Source Software on IBM i](iOOs01.clle)
 - [iOOs01_Open_Source_Help_Guide.md - Open Source On IBM i Help Guide](iOOs01_Open_Source_Help_Guide.md)
 - [wt_settings.json - Windows Terminal Settings](wt_settings.json)
+- [community_php_apache.txt - Apache Config file with community PHP support added](community_php_apache.txt)
 
 ## Acknowledgments
 
