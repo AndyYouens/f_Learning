@@ -17,10 +17,11 @@ Visit our training videos, which can be found [here](https://learning.formaserve
 | `yum install ibmichroot` | Install IBMiChroot |
 | `chroot_setup andy` | Create an IBM i container |
 | `chroot /QOpenSys/containers/andy /QOpenSys/usr/bin/sh` | Move into an IBM i container |
+| `rm -rf  /QOpenSys/containers/andy` | Nuke an IBM i container |
 
 ## Links
 
-- [IBM RFEs for PASE](bit.ly/ibm-rfe-all-pase)
+- [IBM RFEs for PASE](http://bit.ly/ibm-rfe-all-pase)
 
 ## Authors
 
