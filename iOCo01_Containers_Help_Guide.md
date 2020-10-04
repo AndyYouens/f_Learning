@@ -20,12 +20,11 @@ Visit our training videos, which can be found [here](https://learning.formaserve
 
 ## Links
 
-- [IBM RFEs for PASE ](bit.ly/ibm-rfe-all-pase)
+- [IBM RFEs for PASE](bit.ly/ibm-rfe-all-pase)
 
 ## Authors
 
 > FormaServe Systems Ltd - _All work_ - [FormaServe](https://www.formaserve.co.uk)
-
 
 ## Contributors
 
