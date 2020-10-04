@@ -18,9 +18,14 @@ Visit our training videos, which can be found [here](https://learning.formaserve
 | `chroot_setup andy` | Create an IBM i container |
 | `chroot /QOpenSys/containers/andy /QOpenSys/usr/bin/sh` | Move into an IBM i container |
 
+## Links
+
+- [IBM RFEs for PASE ](bit.ly/ibm-rfe-all-pase)
+
 ## Authors
 
 > FormaServe Systems Ltd - _All work_ - [FormaServe](https://www.formaserve.co.uk)
+
 
 ## Contributors
 
