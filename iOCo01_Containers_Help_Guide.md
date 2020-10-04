@@ -14,7 +14,8 @@ Visit our training videos, which can be found [here](https://learning.formaserve
 | -| - |
 | `yum –installroot=/QOpenSys/containers/andy` | Install software into a container |
 | `yum –installroot=/QOpenSys/containers/andy install nodejs14` | Install Node14 into my container example |
-| `YUM INSTALL IBMICHROOT` | Install IBMiChroot |
+| `yum install ibmichroot` | Install IBMiChroot |
+| `chroot_setup andy` | Create an IBM i container |
 | `chroot /QOpenSys/containers/andy /QOpenSys/usr/bin/sh` | Move into an IBM i container |
 
 ## Authors
