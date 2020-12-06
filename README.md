@@ -22,6 +22,7 @@
 - [wt_settings.json - Windows Terminal Settings](wt_settings.json)
 - [community_php_apache.txt - Apache Config file with community PHP support added](community_php_apache.txt)
 - [How06_MariaDB_Help_Guide.md - Install & Use MariaDB on IBM i](How06_MariaDB_Help_Guide.md)
+- [How06_MariaDB_Sample_SQL.sql - Create Sample MariaDB SQL Objects](How06_Create_Sample.sql)
 
 ## Acknowledgments
 
