@@ -2,27 +2,31 @@
 
 ![FormaServe Logo](https://github.com/AndyYouens/f_Learning/blob/master/images/Logo.png)
 
-## Our eLearning IBM i Training Examples
-
-### Visit our training videos, which can be found [here](https://learning.formaserve.co.uk)
+This repo contains additional information that we hope will be helpful when completing our f_Learning training videos.
 
 ---
+
+## Our eLearning IBM i Training Examples
+
+### While here why not visit our training videos, which can be found [here](https://learning.formaserve.co.uk)
+
+---
+
+## Links
+
+- [DB2 for i - Examples of using Temporal Tables](iODb01_Temporal.sql)
+- [DB2 for i - Examples of using Row & Column Access Control](iODb02_RCAC.sql)
+- [CL Programming - Example of automating the updating of Open Source Software on IBM i](iOOs01.clle)
+- [MariaDB - Install & Use MariaDB on IBM i](How06_MariaDB_Help_Guide.md)
+- [MariaDB - Create Sample MariaDB SQL Objects](How06_Create_Sample.sql)
+- [Open-Source - Apache Config file with Community PHP Support Added](community_php_apache.txt)
+- [Open-Source - Open Source On IBM i Help Guide](iOOs01_Open_Source_Help_Guide.md)
+- [Open-Source - Containers On IBM i Help Guide](iOCo01_Containers_Help_Guide.md)
+- [Windows - Windows Terminal Settings Example](wt_settings.json)
 
 ## Authors
 
 > FormaServe Systems Ltd - _All work_ - [FormaServe](https://www.formaserve.co.uk)
-
-## Index
-
-- [iODb01_Temporal.sql - Examples of using Temporal Tables on DB2 for i](iODb01_Temporal.sql)
-- [iODb02_RCAC.sql - Examples of using RCAC (Row & Column Access Control) on DB2 for i](iODb02_RCAC.sql)
-- [iOOs01.clle - CL programming example of automating the updating of Open Source Software on IBM i](iOOs01.clle)
-- [iOOs01_Open_Source_Help_Guide.md - Open Source On IBM i Help Guide](iOOs01_Open_Source_Help_Guide.md)
-- [iOCo01_Containers_Help_Guide.md - Containers On IBM i Help Guide](iOCo01_Containers_Help_Guide.md)
-- [wt_settings.json - Windows Terminal Settings](wt_settings.json)
-- [community_php_apache.txt - Apache Config file with community PHP support added](community_php_apache.txt)
-- [How06_MariaDB_Help_Guide.md - Install & Use MariaDB on IBM i](How06_MariaDB_Help_Guide.md)
-- [How06_MariaDB_Sample_SQL.sql - Create Sample MariaDB SQL Objects](How06_Create_Sample.sql)
 
 ## Acknowledgments
 
