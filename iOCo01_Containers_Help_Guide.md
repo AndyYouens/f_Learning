@@ -16,8 +16,35 @@ Visit our training videos, which can be found [here](https://learning.formaserve
 | `yum –installroot=/QOpenSys/containers/andy install nodejs14` | Install Node14 into my container example |
 | `yum install ibmichroot` | Install IBMiChroot |
 | `chroot_setup andy` | Create an IBM i container |
-| `chroot /QOpenSys/containers/andy /QOpenSys/usr/bin/sh` | Move into an IBM i container |
+| `chroot /QOpenSys/containers/andy /QOpenSys/usr/bin/bash` | Move into an IBM i container & start bash |
 | `rm -rf  /QOpenSys/containers/andy` | Nuke an IBM i container |
+
+## Useful RSync Commands
+
+Don't just use cp to copy files on our IFS, use RSync to sync & copy files.
+
+It can also be used to save & restore directories, including containers, to a remote system, via SSH.
+
+Once you start using RSync you won't go back to cp - believe me!
+
+| Command | Description |
+| -| - |
+| `rsync -avh /andy /backups` | Back-up a directory named andy to a directory named backups |
+| `rsync -ah backups/ andy/` | To restore your backups, reverse the source & destination |
+| `rsync -ah backups/ andy/` | To update a backups, just run rsync again with the same arguments. Rsync will only copy the changes - Neat! |
+| `rsync -zavh /andy/ andy@proteus:backups/` | Back-up directory Andy to remote server Proteus & place in directory /Backups |
+| `rsync -zvh /f_mtd/routes/*.js /backups/f_mtd/routes` | Back-up all javascript files (.js) to directory /backups/f_mtd/routes/ |
+| `rsync -zavh --progress /andy/ andy@proteus:backups/` | Back-up to remote server showing progress |
+
+## RSync Flags
+
+| Flag | Description |
+| -| - |
+| `-a` | Archive mode. Instructs rsync to preserve time stamps, permissions & other bits! |
+| `-h` | Human readable output |
+| `-v` | Turns on verbose output |
+| `-z` | Compress data |
+| `-z` | Compress data |
 
 ## Links
 

@@ -12,12 +12,6 @@
 
 > FormaServe Systems Ltd - _All work_ - [FormaServe](https://www.formaserve.co.uk)
 
-## Contributors
-
-> Andy Youens - FormaServe
->
-> Nick Youens - FormaServe
-
 ## Index
 
 - [iODb01_Temporal.sql - Examples of using Temporal Tables on DB2 for i](iODb01_Temporal.sql)
@@ -27,10 +21,17 @@
 - [iOCo01_Containers_Help_Guide.md - Containers On IBM i Help Guide](iOCo01_Containers_Help_Guide.md)
 - [wt_settings.json - Windows Terminal Settings](wt_settings.json)
 - [community_php_apache.txt - Apache Config file with community PHP support added](community_php_apache.txt)
+- [How06_MariaDB_Help_Guide.md - Install & Use MariaDB on IBM i](How06_MariaDB_Help_Guide.md)
 
 ## Acknowledgments
 
 > Andy Youens - FormaServe Systems Ltd - Twitter [@AndyYouens](https://twitter.com/AndyYouens)
+
+## Contributors
+
+> Andy Youens - FormaServe
+>
+> Nick Youens - FormaServe
 
 ## License
 
