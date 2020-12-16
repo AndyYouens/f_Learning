@@ -1,6 +1,6 @@
 # FormaServe f_Learning
 
-![FormaServe Logo](https://github.com/AndyYouens/f_Learning/blob/master/images/Logo.png)
+![FormaServe Logo](https://github.com/AndyYouens/f_Learning/blob/main/images/Logo.png)
 
 This repo contains additional information that we hope will be helpful when completing our f_Learning training videos.
 
@@ -8,7 +8,7 @@ This repo contains additional information that we hope will be helpful when comp
 
 ## Our eLearning IBM i Training Examples
 
-### While here why not visit our training videos, which can be found [here](https://learning.formaserve.co.uk)
+### While here why not visit our training videos, which can be found [here.](https://learning.formaserve.co.uk)
 
 ---
 
