@@ -22,6 +22,7 @@ This repo contains additional information that we hope will be helpful when comp
 - [Open-Source - Apache Config file with Community PHP Support Added](community_php_apache.txt)
 - [Open-Source - Open Source On IBM i Help Guide](iOOs01_Open_Source_Help_Guide.md)
 - [Open-Source - Containers On IBM i Help Guide](iOCo01_Containers_Help_Guide.md)
+- [Open-Source - Using Key Authentication for SSH on IBM i](How17_Using_Key_Authentication_Help_Guide.md)
 - [Windows - Windows Terminal Settings Example](wt_settings.json)
 
 ## Authors
@@ -43,4 +44,4 @@ This repo contains additional information that we hope will be helpful when comp
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- **© 1990 - 2020 [FormaServe Systems Ltd](https://www.formaserve.co.uk)**
+- **© 1990 - 2021 [FormaServe Systems Ltd](https://www.formaserve.co.uk)**
